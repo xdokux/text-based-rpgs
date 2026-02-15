@@ -1,0 +1,18 @@
+## intro
+The Ashen Citadel stands tall against the blood-red sky, a fortress carved into the mountain by hands long turned to dust. Its spires are jagged like broken spears, reaching upward as if to pierce the heavens themselves. The walls are blackened by fire and time, yet they endure, refusing to fall even after a thousand years of war. You feel eyes on you the moment you cross the gate—unseen watchers judging whether you are worthy to enter. The Citadel does not welcome travelers; it consumes them. With each step, you feel the weight of countless souls who tried and failed before you.
+
+## boss_15
+The first true guardian of the Citadel is the Ash Warden, a knight clad in molten armor. Flames leak from the gaps in its black steel plates, spilling onto the ground and leaving trails of smoldering embers. Its sword is larger than a man, burning so bright you cannot look directly at it. Legends say the Warden was once a hero of the surface, cursed to eternal servitude for breaking an ancient oath. The heat in the chamber is suffocating, each breath searing your lungs. The Warden does not speak—it only advances, determined to burn away all who dare challenge the Citadel.
+
+## boss_35
+At the summit of the Citadel waits the true master: The Ember King. He sits upon a throne of slag and fire, his skeletal frame wreathed in an eternal inferno. His crown is fused to his skull, glowing brighter with every hateful word he utters. His presence alone warps reality, the walls of the throne room melting and reforming as if caught in a fever dream. His laughter echoes like a thousand bells, mocking you even as he prepares to destroy you. To defeat him is to defy the very will of the Citadel itself.
+
+## puzzle_7
+A courtyard of broken statues stretches before you, each one holding a different weapon. The statues whisper when you approach, their voices overlapping in an eerie chorus. Somewhere among them is the correct sequence, the order of kings who once ruled here. Choose wrong, and the statues will shatter to life, turning their weapons against you. The air tastes of dust and old blood, as though the Citadel itself remembers every battle fought here. You feel like a trespasser in a place that belongs to no living soul.
+
+## puzzle_21
+The path ahead is blocked by a vast mosaic floor depicting a burning city. As you step onto it, flames erupt across the tiles, forcing you to move quickly or be consumed. Some tiles are safe, glowing faintly beneath your boots, while others burn hotter with every step. You realize this is a trial of memory and precision, designed to weed out the unworthy. The Citadel watches in silence, waiting to see if you stumble. One wrong step, and the flames will claim you as they have claimed countless others.
+
+## outro
+When you finally emerge from the Citadel’s throne room, you collapse beneath the cold night sky. The flames still dance in your vision, haunting reminders of the inferno you left behind. The mountain rumbles as if displeased at your escape, but it cannot stop you now. You have faced the Citadel and lived, a feat few will ever match. Still, the whispers cling to you, promising that the Citadel’s fire will burn forever. You cannot shake the feeling that one day, it will call you back to finish what began here.
+
