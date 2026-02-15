@@ -1,2 +1,2 @@
 # text-based-rpgs
-text based rpg games that ive messed with. all written in python.
+HAI, IM DOKU, I HAVE NO CLUE WHAT IM DOING< SO JUST UH< SIT BACK AND ENJOY???? 
