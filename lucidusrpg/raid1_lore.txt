@@ -1,0 +1,18 @@
+## intro
+You descend into the Shattered Depths, a cavern system said to have been torn from the fabric of reality itself. The stone walls twist at unnatural angles, as if some great force bent them like clay. The air is heavy with a metallic tang, and faint whispers echo in the dark—voices of those who entered before and never returned. Your torchlight flickers, casting shadows that move when they shouldn’t. Each step feels like a descent into a memory not your own, a reminder that this place is alive and watching. The Depths will not yield easily, and you are not welcome here.
+
+## boss_10
+From the blackness ahead, a colossal shape begins to stir. It is the Guardian of Bone, an ancient construct forged from thousands of broken skeletons bound together by cursed iron. Its movements grind like tectonic plates, each step shaking the ground beneath you. Hollow eyes burn with a pale blue fire, tracking you with the patience of a predator. Legends say this guardian was once human, bound eternally to the Depths for its betrayal of the surface world. Now it raises its jagged blade of fused bone, eager to add your remains to its ever-growing frame.
+
+## boss_25
+The chamber floods with icy water as a leviathan emerges from the abyss. Its body is a grotesque fusion of scaled flesh and crystalline shards, glimmering like starlight in the darkness. Eyes as large as shields open one by one across its massive head, each blinking independently. The beast roars, shaking the entire cavern as stalactites rain down. In ancient texts it is called “The Endless Maw,” a being said to have devoured entire kingdoms that once existed here. To face it is to stand against a hunger that has no end.
+
+## puzzle_7
+You step into a circular chamber filled with glowing runes etched into the stone floor. Each rune hums faintly with power, and as you approach they rearrange themselves into shifting patterns. The whispers return, urging you to press the right sequence or be consumed by the wrong one. A faint pulse runs through the air like the beating of a heart. You sense that the puzzle is alive, feeding off your uncertainty. The wrong choice will not only bar your passage—it may very well end you.
+
+## puzzle_14
+A massive door of black iron towers before you, covered in strange grooves and indentations. Symbols carved into the stone glow faintly as though waiting for a key. Nearby, statues of forgotten kings clutch fragments of broken blades, their hollow eyes staring endlessly at the door. You realize the pieces must be reassembled, but the pattern eludes you. Time seems to run differently in this chamber—the longer you stand, the heavier your body feels. The Depths want you to fail, and they will do everything to ensure it.
+
+## outro
+When at last you reach the end, the Depths collapse behind you with a thunderous groan. The walls knit themselves closed, sealing away their secrets once more. You emerge back into the open air, gasping as though you had been drowning the entire time. Whispers cling to your ears, promising that the Depths are not truly defeated—that they are eternal. The memories of the raid weigh heavy on you, heavier than your armor or blade. You survived, but you will never forget the voices that still call your name from the dark.
+
